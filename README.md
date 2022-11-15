@@ -12,6 +12,14 @@ FileSpaces is a Blazor Server ASP.net cross-platform web application to ease the
     * Stop uploads - clears unique upload url
 
 * Uploading
+  * Anyone with the unique upload url of a space can upload to it
+  * Multiple files can be uploaded at a time, with upload progress shown
+    * If a filename already exists:
+      * uploaded item is skipped
+      * user is informed the file exists, with extra information about it:
+        * filesize 
+        * last modified date
+      * User can rename that specific file locally in their system and retry the upload, or skip it if they realize it's a file they had uploaded themselves and doesn't need updating. If they want to upload an updated file they have to upload a new copy with a different "version" in its filename (say xx_20220530.png) 
 
 * Reviewing
 
