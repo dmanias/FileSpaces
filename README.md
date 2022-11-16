@@ -25,5 +25,5 @@ FileSpaces is a Blazor Server ASP.net cross-platform web application to ease the
 
 * Presentation / Download
 
-* Install input file component
+# Install input file component
 dotnet add package BlazorInputFile --version 0.2.0
