@@ -16589,6 +16589,11 @@
       "FileKind": "component"
     },
     {
+      "FilePath": "/home/dimosthenis/dev/FileSpaces/test/WebApplication1/Pages/FileUpload.razor",
+      "TargetPath": "Pages\\FileUpload.razor",
+      "FileKind": "component"
+    },
+    {
       "FilePath": "/home/dimosthenis/dev/FileSpaces/test/WebApplication1/Shared/MainLayout.razor",
       "TargetPath": "Shared\\MainLayout.razor",
       "FileKind": "component"
@@ -16624,18 +16629,8 @@
       "FileKind": "componentImport"
     },
     {
-      "FilePath": "/home/dimosthenis/dev/FileSpaces/test/WebApplication1/Pages/FileUpload1.razor",
-      "TargetPath": "Pages\\FileUpload1.razor",
-      "FileKind": "component"
-    },
-    {
       "FilePath": "/home/dimosthenis/dev/FileSpaces/test/WebApplication1/Shared/NavMenu.razor",
       "TargetPath": "Shared\\NavMenu.razor",
-      "FileKind": "component"
-    },
-    {
-      "FilePath": "/home/dimosthenis/dev/FileSpaces/test/WebApplication1/Pages/FileUpload3.razor",
-      "TargetPath": "Pages\\FileUpload3.razor",
       "FileKind": "component"
     },
     {

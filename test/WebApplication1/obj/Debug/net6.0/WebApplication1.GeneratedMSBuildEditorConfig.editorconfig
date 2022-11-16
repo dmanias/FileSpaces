@@ -27,12 +27,8 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/home/dimosthenis/dev/FileSpaces/test/WebApplication1/Pages/FileUpload1.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmlsZVVwbG9hZDEucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
-[/home/dimosthenis/dev/FileSpaces/test/WebApplication1/Pages/FileUpload3.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmlsZVVwbG9hZDMucmF6b3I=
+[/home/dimosthenis/dev/FileSpaces/test/WebApplication1/Pages/FileUpload.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmlsZVVwbG9hZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/dimosthenis/dev/FileSpaces/test/WebApplication1/Pages/Index.razor]
