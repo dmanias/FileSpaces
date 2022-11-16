@@ -12,39 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": -1425835106,
-        "Kind": "Components.Component",
-        "Name": "WebApplication1.Pages.Counter",
-        "AssemblyName": "WebApplication1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApplication1.Pages.Counter"
-        }
-      },
-      {
-        "HashCode": 236498233,
-        "Kind": "Components.Component",
-        "Name": "WebApplication1.Pages.Counter",
-        "AssemblyName": "WebApplication1",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "WebApplication1.Pages.Counter"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApplication1.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 544797842,
         "Kind": "Components.Component",
         "Name": "WebApplication1.Pages.FetchData",
@@ -78,35 +45,35 @@
         }
       },
       {
-        "HashCode": -1121022965,
+        "HashCode": -1425835106,
         "Kind": "Components.Component",
-        "Name": "WebApplication1.App",
+        "Name": "WebApplication1.Pages.Counter",
         "AssemblyName": "WebApplication1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "App"
+            "TagName": "Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApplication1.App"
+          "Common.TypeName": "WebApplication1.Pages.Counter"
         }
       },
       {
-        "HashCode": 862634497,
+        "HashCode": 236498233,
         "Kind": "Components.Component",
-        "Name": "WebApplication1.App",
+        "Name": "WebApplication1.Pages.Counter",
         "AssemblyName": "WebApplication1",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "WebApplication1.App"
+            "TagName": "WebApplication1.Pages.Counter"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "WebApplication1.App",
+          "Common.TypeName": "WebApplication1.Pages.Counter",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -289,6 +256,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "WebApplication1.Shared.NavMenu",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -1121022965,
+        "Kind": "Components.Component",
+        "Name": "WebApplication1.App",
+        "AssemblyName": "WebApplication1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApplication1.App"
+        }
+      },
+      {
+        "HashCode": 862634497,
+        "Kind": "Components.Component",
+        "Name": "WebApplication1.App",
+        "AssemblyName": "WebApplication1",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "WebApplication1.App"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "WebApplication1.App",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
