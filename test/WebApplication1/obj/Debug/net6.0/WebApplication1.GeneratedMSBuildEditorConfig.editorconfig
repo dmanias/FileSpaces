@@ -35,8 +35,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/dimosthenis/dev/FileSpaces/test/WebApplication1/Pages/Pets1.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUGV0czEucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/dimosthenis/dev/FileSpaces/test/WebApplication1/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/dimosthenis/dev/FileSpaces/test/WebApplication1/Shared/TableTemplate.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1RhYmxlVGVtcGxhdGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
 [/home/dimosthenis/dev/FileSpaces/test/WebApplication1/_Imports.razor]
