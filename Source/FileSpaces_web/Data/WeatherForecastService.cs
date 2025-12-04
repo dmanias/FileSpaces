@@ -1,4 +1,4 @@
-namespace WebApplication1.Data;
+namespace FileSpaces_web.Data;
 
 public class WeatherForecastService
 {

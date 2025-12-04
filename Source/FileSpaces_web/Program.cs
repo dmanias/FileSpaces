@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Components;
 using Microsoft.AspNetCore.Components.Web;
-using WebApplication1.Data;
+using FileSpaces_web.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
